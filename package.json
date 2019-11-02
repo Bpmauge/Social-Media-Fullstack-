@@ -1,0 +1,20 @@
+{
+  "name": "SocialMedia",
+  "version": "1.0.0",
+  "description": "Continuing the starter project [here](https://github.com/joinpursuit/Pursuit-Core-Web-pg-promise-Intro/tree/master), add the following features:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bpmauge/Social-Media-Fullstack-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bpmauge/Social-Media-Fullstack-/issues"
+  },
+  "homepage": "https://github.com/Bpmauge/Social-Media-Fullstack-#readme"
+}
